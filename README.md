@@ -52,7 +52,7 @@ Depending on the gesture, the appropriate key is pressed or released using keyin
 ## Installation
 ### Clone the repository:
 ```bash
-git clone https://github.com/your-username/hand-gesture-steering.git
+git clone https://github.com/Stanisjeba/Virtual-Steering.git
 ```
 
 ## Install dependencies:
