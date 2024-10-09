@@ -61,7 +61,7 @@ pip install -r requirements.txt
 ```
 ## Run the program:
 ```bash
-python hand_gesture_steering.py
+Python Hand gesture steering.py
 ```
 ## Usage
  - **Start the program**: When the program starts, it captures video from your default webcam.
