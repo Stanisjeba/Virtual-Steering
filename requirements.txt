@@ -1,5 +1,6 @@
 cv2
 mediapipe 
+keyinput
 numpy
 keyboard 
 pygame
